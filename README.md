@@ -1,7 +1,7 @@
 # RCSHARP7
 ===========
 
-RCSHARP7  is a  ProgrammingLanguage focused for  Remote web application   with  RCSHARP using  JDollar p.l which  is  invented  by wilmix jemin j  in  J$JWEB year  2017.
+RCSHARP7  is a  ProgrammingLanguage focused for  Remote web application   with  RCSHARP using  JDollar p.l which  is  invented  by wilmix jemin j  in  J$JWEB and  csharp p.l year  2017.
 
 
 RCSHARP7  has   modules  like
